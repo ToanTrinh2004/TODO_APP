@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "components/Screens/Intro01.js", "components/Screens/Intro02.js", "components/Screens/Intro03.js", "components/Screens/Intro04.js"  ]
 }
